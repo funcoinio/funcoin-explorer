@@ -1,0 +1,34 @@
+{
+    "nodeAddr":     "178.172.224.230",
+    "wsPort":       8546,
+    "startBlock":   0,
+    "endBlock":     "latest",
+    "quiet":        true,
+    "syncAll":      true,
+    "patch":        true,
+    "patchBlocks":  100,
+    "bulkSize":     100,
+    "settings": {
+        "symbol": "FUNC",
+        "name": "FUNCOIN",
+        "title": "FUNCOIN Block Explorer",
+        "author": "Elaine, Cody, Hackmod, Bakon, Creature101",
+        "contact": "mailto:info@funcoin.io",
+        "about": "This is an open source Blockchain Explorer.",
+        "rss": "https://funcoin.io",
+        "reddit": "https://www.reddit.com/r/funcoinio",
+        "twitter": "https://twitter.com/funcoinio",
+        "github": "https://github.com/funcoinio",
+        "logo": "/img/full_color_long.png",
+        "copyright": "2019 &copy; FUNCOIN.IO",
+        "poweredbyCustom": false,
+        "poweredbyEtcImage": "/img/powered-by-etcexplorer-w.png",
+        "poweredbyEtc": true,
+        "tokenList": "tokens.json",
+        "useRichList": true,
+        "useFiat": false,
+        "miners": {
+            "0xdf7d7e053933b5cc24372f878c90e62dadad5d42": "FUNCOIN"
+         }
+    }
+}
